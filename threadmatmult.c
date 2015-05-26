@@ -228,5 +228,4 @@ int main (int argc, char **argv) {
 	printf("x: %d, y: %d, z: %d, n: %d\n", data.x, data.y, data.z, data.n);
 	return (EXIT_SUCCESS);
 }
-# pthread
 
